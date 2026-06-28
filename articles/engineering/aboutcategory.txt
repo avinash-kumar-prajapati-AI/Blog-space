@@ -1,0 +1,1 @@
+Engineering covers software development, system design, backend, frontend, DevOps, and computer science fundamentals. Articles here are written from real-world experience — practical, concise, and beginner-friendly where possible.

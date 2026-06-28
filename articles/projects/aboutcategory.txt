@@ -1,0 +1,1 @@
+Projects showcases real things I have built — side projects, open source contributions, and client work. Each article explains what was built, why, the tech stack used, and key learnings from the process.

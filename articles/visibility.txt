@@ -1,0 +1,10 @@
+# Category Visibility Config
+# Format: category_slug | visible | sidebar
+# visible: true/false
+# sidebar: true/false (only 5 max marked true)
+
+engineering   | visible:true  | sidebar:true
+projects      | visible:true  | sidebar:true
+top50tech     | visible:true  | sidebar:true
+top50finance  | visible:true  | sidebar:true
+tutorials     | visible:false | sidebar:false
