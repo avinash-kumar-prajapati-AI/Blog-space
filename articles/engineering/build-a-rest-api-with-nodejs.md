@@ -14,7 +14,7 @@ draft: false
 
 ## Introduction
 
-REST APIs are the backbone of modern web applications. In this article, we'll build a simple but complete REST API using **Node.js** and **Express**.
+REST API's are the backbone of modern web applications. In this article, we'll build a simple but complete REST API using **Node.js** and **Express**.
 
 ## Prerequisites
 
