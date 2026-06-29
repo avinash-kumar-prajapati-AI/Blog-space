@@ -8,6 +8,7 @@ modified_date: "2025-06-20"
 thumbnail: "media/images/articles/top-10-js-frameworks-2025/thumbnail.png"
 external_links: []
 draft: false
+featured: true
 ---
 
 ## Why This List

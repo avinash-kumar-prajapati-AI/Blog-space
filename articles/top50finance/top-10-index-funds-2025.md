@@ -8,6 +8,7 @@ modified_date: "2025-06-22"
 thumbnail: "media/images/articles/top-10-index-funds-2025/thumbnail.png"
 external_links: []
 draft: true
+featured: false
 ---
 
 ## Introduction

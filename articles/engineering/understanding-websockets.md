@@ -8,6 +8,7 @@ modified_date: "2025-06-10"
 thumbnail: "media/images/articles/understanding-websockets/thumbnail.png"
 external_links: []
 draft: true
+featured: true
 ---
 
 ## Introduction
