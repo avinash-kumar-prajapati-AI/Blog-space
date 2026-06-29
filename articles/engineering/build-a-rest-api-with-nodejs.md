@@ -10,6 +10,7 @@ external_links:
   - label: "Visit Product"
     url: "https://github.com/avinash-kumar-prajapati/rest-api-demo"
 draft: false
+featured: true
 ---
 
 ## Introduction

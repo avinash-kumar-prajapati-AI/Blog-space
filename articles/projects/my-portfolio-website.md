@@ -10,6 +10,7 @@ external_links:
   - label: "Visit Product"
     url: "https://github.com/avinash-kumar-prajapati/SimpleBlogApp"
 draft: false
+featured: true
 ---
 
 ## What I Built
