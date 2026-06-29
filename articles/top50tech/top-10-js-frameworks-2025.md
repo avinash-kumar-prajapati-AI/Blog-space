@@ -1,6 +1,6 @@
 ---
 id: "t50t-001"
-title: "Top 10 JavaScript Frameworks to Learn in 2025"
+title: "Top 10 JavaScript Frameworks to Learn in 2025."
 description: "A curated ranking of the most in-demand JavaScript frameworks in 2025 based on job market data, GitHub stars, and community growth."
 tags: ["javascript", "frameworks", "react", "vue", "svelte", "astro", "top50", "web-development", "2025"]
 category: "top50tech"
