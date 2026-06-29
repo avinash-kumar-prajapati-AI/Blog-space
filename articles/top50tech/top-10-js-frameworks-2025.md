@@ -5,7 +5,7 @@ description: "A curated ranking of the most in-demand JavaScript frameworks in 2
 tags: ["javascript", "frameworks", "react", "vue", "svelte", "astro", "top50", "web-development", "2025"]
 category: "top50tech"
 modified_date: "2025-06-20"
-thumbnail: "media/images/articles/top-10-js-frameworks-225/thumbnail.png"
+thumbnail: "media/images/articles/top-10-js-frameworks225/thumbnail.png"
 external_links: []
 draft: false
 featured: true
