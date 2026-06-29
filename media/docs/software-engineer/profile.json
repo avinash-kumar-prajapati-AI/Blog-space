@@ -4,7 +4,8 @@
     "role": "Software Engineer",
     "bio": "Full-stack developer passionate about building fast, scalable web applications and sharing knowledge through writing.",
     "email": "avinash@example.com",
-    "location": "Deoria, Uttar Pradesh, India"
+    "location": "Deoria, Uttar Pradesh, India",
+    "profile_picture": "media/images/profile_pic.png"
   },
   "social": [
     {
