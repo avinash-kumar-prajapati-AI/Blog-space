@@ -4,13 +4,30 @@
     "role": "Software Engineer",
     "bio": "Full-stack developer passionate about building fast, scalable web applications and sharing knowledge through writing.",
     "email": "avinash@example.com",
-    "location": "Deoria, Uttar Pradesh, India",
-    "avatar": "media/images/assets/avatar.png"
+    "location": "Deoria, Uttar Pradesh, India"
   },
   "social": [
-    { "platform": "GitHub", "url": "https://github.com/avinash-kumar-prajapati", "icon": "github" },
-    { "platform": "LinkedIn", "url": "https://linkedin.com/in/avinash-kumar-prajapati", "icon": "linkedin" },
-    { "platform": "Twitter", "url": "https://twitter.com/avinash_dev", "icon": "twitter" }
+    {
+      "platform": "GitHub",
+      "url": "https://github.com/avinash-kumar-prajapati",
+      "icon": "github",
+      "open_in_new_tab": true,
+      "is_visible": true
+    },
+    {
+      "platform": "LinkedIn",
+      "url": "https://linkedin.com/in/avinash-kumar-prajapati",
+      "icon": "linkedin",
+      "open_in_new_tab": true,
+      "is_visible": true
+    },
+    {
+      "platform": "Twitter",
+      "url": "https://twitter.com/avinash_dev",
+      "icon": "twitter",
+      "open_in_new_tab": true,
+      "is_visible": true
+    }
   ],
   "experience": [
     {
@@ -22,27 +39,63 @@
         "Built and maintained REST APIs serving 10k+ daily users",
         "Reduced page load time by 40% through static site generation",
         "Led migration from monolith to microservices architecture"
-      ]
+      ],
+      "companyUrl": "https://yourcompany.com",
+      "open_in_new_tab": true
     }
   ],
   "projects": [
     {
       "name": "SimpleBlogApp",
       "description": "Personal blog and portfolio built with Astro, GitHub CMS, and Cloudflare Pages.",
-      "tech": ["Astro", "Cloudflare Pages", "GitHub", "Markdown"],
+      "tech": [
+        "Astro",
+        "Cloudflare Pages",
+        "GitHub",
+        "Markdown"
+      ],
       "links": [
-        { "label": "Source Code", "url": "https://github.com/avinash-kumar-prajapati/SimpleBlogApp" },
-        { "label": "Live Site", "url": "https://simpleblogapp.pages.dev" },
-        { "label": "Blog Article", "url": "/articles/projects/my-portfolio-website" }
+        {
+          "label": "Source Code",
+          "url": "https://github.com/avinash-kumar-prajapati/SimpleBlogApp",
+          "open_in_new_tab": true,
+          "is_visible": true
+        },
+        {
+          "label": "Live Site",
+          "url": "https://simpleblogapp.pages.dev",
+          "open_in_new_tab": true,
+          "is_visible": true
+        },
+        {
+          "label": "Blog Article",
+          "url": "/articles/projects/my-portfolio-website",
+          "open_in_new_tab": true,
+          "is_visible": true
+        }
       ]
     },
     {
       "name": "REST API Demo",
       "description": "A sample REST API built with Node.js and Express demonstrating CRUD operations.",
-      "tech": ["Node.js", "Express", "JavaScript"],
+      "tech": [
+        "Node.js",
+        "Express",
+        "JavaScript"
+      ],
       "links": [
-        { "label": "Source Code", "url": "https://github.com/avinash-kumar-prajapati/rest-api-demo" },
-        { "label": "Blog Article", "url": "/articles/engineering/build-a-rest-api-with-nodejs" }
+        {
+          "label": "Source Code",
+          "url": "https://github.com/avinash-kumar-prajapati/rest-api-demo",
+          "open_in_new_tab": true,
+          "is_visible": true
+        },
+        {
+          "label": "Blog Article",
+          "url": "/articles/engineering/build-a-rest-api-with-nodejs",
+          "open_in_new_tab": true,
+          "is_visible": true
+        }
       ]
     }
   ],
@@ -51,18 +104,59 @@
       "degree": "Bachelor of Technology — Computer Science",
       "institution": "Your College Name",
       "year": "2020 – 2024",
-      "institutionUrl": "https://yourcollege.ac.in"
+      "institutionUrl": "https://yourcollege.ac.in",
+      "open_in_new_tab": true
     }
   ],
   "skills": [
-    { "name": "JavaScript", "githubProject": "https://github.com/avinash-kumar-prajapati/rest-api-demo" },
-    { "name": "Node.js", "githubProject": "https://github.com/avinash-kumar-prajapati/rest-api-demo" },
-    { "name": "Astro", "githubProject": "https://github.com/avinash-kumar-prajapati/SimpleBlogApp" },
-    { "name": "React", "githubProject": "https://github.com/avinash-kumar-prajapati" },
-    { "name": "TypeScript", "githubProject": "https://github.com/avinash-kumar-prajapati" },
-    { "name": "Cloudflare", "githubProject": "https://github.com/avinash-kumar-prajapati/SimpleBlogApp" },
-    { "name": "Git", "githubProject": "https://github.com/avinash-kumar-prajapati" },
-    { "name": "SQL", "githubProject": "https://github.com/avinash-kumar-prajapati" }
+    {
+      "name": "JavaScript",
+      "githubProject": "https://github.com/avinash-kumar-prajapati/rest-api-demo",
+      "open_in_new_tab": true,
+      "is_visible": true
+    },
+    {
+      "name": "Node.js",
+      "githubProject": "https://github.com/avinash-kumar-prajapati/rest-api-demo",
+      "open_in_new_tab": true,
+      "is_visible": true
+    },
+    {
+      "name": "Astro",
+      "githubProject": "https://github.com/avinash-kumar-prajapati/SimpleBlogApp",
+      "open_in_new_tab": true,
+      "is_visible": true
+    },
+    {
+      "name": "React",
+      "githubProject": "https://github.com/avinash-kumar-prajapati",
+      "open_in_new_tab": true,
+      "is_visible": true
+    },
+    {
+      "name": "TypeScript",
+      "githubProject": "https://github.com/avinash-kumar-prajapati",
+      "open_in_new_tab": true,
+      "is_visible": true
+    },
+    {
+      "name": "Cloudflare",
+      "githubProject": "https://github.com/avinash-kumar-prajapati/SimpleBlogApp",
+      "open_in_new_tab": true,
+      "is_visible": true
+    },
+    {
+      "name": "Git",
+      "githubProject": "https://github.com/avinash-kumar-prajapati",
+      "open_in_new_tab": true,
+      "is_visible": true
+    },
+    {
+      "name": "SQL",
+      "githubProject": "https://github.com/avinash-kumar-prajapati",
+      "open_in_new_tab": true,
+      "is_visible": true
+    }
   ],
   "certificates": [
     {
@@ -70,8 +164,18 @@
       "issuer": "Amazon Web Services",
       "year": "2024",
       "credentialLinks": [
-        { "label": "AWS Verify", "url": "https://aws.amazon.com/verification" },
-        { "label": "Credly Badge", "url": "https://credly.com/badges/your-badge-id" }
+        {
+          "label": "AWS Verify",
+          "url": "https://aws.amazon.com/verification",
+          "open_in_new_tab": true,
+          "is_visible": true
+        },
+        {
+          "label": "Credly Badge",
+          "url": "https://credly.com/badges/your-badge-id",
+          "open_in_new_tab": true,
+          "is_visible": true
+        }
       ]
     }
   ],
@@ -80,8 +184,18 @@
       "title": "Open Source Contributor",
       "description": "Contributed to 3 open source projects with merged PRs",
       "links": [
-        { "label": "GitHub Profile", "url": "https://github.com/avinash-kumar-prajapati" },
-        { "label": "Contributions", "url": "https://github.com/avinash-kumar-prajapati?tab=contributions" }
+        {
+          "label": "GitHub Profile",
+          "url": "https://github.com/avinash-kumar-prajapati",
+          "open_in_new_tab": true,
+          "is_visible": true
+        },
+        {
+          "label": "Contributions",
+          "url": "https://github.com/avinash-kumar-prajapati?tab=contributions",
+          "open_in_new_tab": true,
+          "is_visible": true
+        }
       ]
     }
   ]
